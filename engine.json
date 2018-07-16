@@ -4,7 +4,7 @@
   "engineFactory": "org.template.complementarypurchase.ComplementaryPurchaseEngine",
   "datasource": {
     "params" : {
-      "appName": "adg-testapp" //INVALID_APP_NAME
+      "appName": "adg-testapp"
     }
   },
   "algorithms": [
